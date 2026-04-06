@@ -22,7 +22,7 @@ Abaixo, os cenários mapeados e estruturados no projeto:
 * **Troca de Pneu**: Sequência focada em segurança e ordem técnica, incluindo sinalização e uso correto do macaco hidráulico.
 * **Troca de Lâmpada**: Processo linear focado em manutenção residencial e segurança elétrica.
 * **Uso de Transporte Público**: Estrutura lógica que engloba a verificação de recursos (saldo), sinalização de parada e o trajeto.
-**Preparo de Bolo de Fubá**: Algoritmo culinário detalhando a preparação de utensílios, mistura de ingredientes e tempo de forno.
+* **Preparo de Bolo de Fubá**: Algoritmo culinário detalhando a preparação de utensílios, mistura de ingredientes e tempo de forno.
 
 ## 🧠 Conceitos Aplicados
 Durante o desenvolvimento, foram aplicados conceitos fundamentais de algoritmos:
